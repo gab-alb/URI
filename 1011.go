@@ -12,6 +12,6 @@ func main() {
 
 	volume = pi * (raio * raio * raio) * (4 / 3)
 
-	fmt.Printf("VOLUME = %.3f", volume)
+	fmt.Printf("VOLUME = %.3f\n", volume)
 
 }
